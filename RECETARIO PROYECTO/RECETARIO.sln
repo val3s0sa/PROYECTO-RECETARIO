@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RECETARIO", "RECETARIO.csproj", "{D702D43A-E2C1-462F-A5E1-163978CF35DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D702D43A-E2C1-462F-A5E1-163978CF35DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D702D43A-E2C1-462F-A5E1-163978CF35DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D702D43A-E2C1-462F-A5E1-163978CF35DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D702D43A-E2C1-462F-A5E1-163978CF35DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E51E1F0-7235-4A72-8882-4A9B04DA5CDD}
+	EndGlobalSection
+EndGlobal

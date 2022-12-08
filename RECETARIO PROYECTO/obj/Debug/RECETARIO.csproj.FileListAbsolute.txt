@@ -1,0 +1,8 @@
+C:\Users\valen\source\repos\RECETARIO\bin\Debug\RECETARIO.exe.config
+C:\Users\valen\source\repos\RECETARIO\bin\Debug\RECETARIO.exe
+C:\Users\valen\source\repos\RECETARIO\bin\Debug\RECETARIO.pdb
+C:\Users\valen\source\repos\RECETARIO\obj\Debug\RECETARIO.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\RECETARIO\obj\Debug\RECETARIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\source\repos\RECETARIO\obj\Debug\RECETARIO.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\RECETARIO\obj\Debug\RECETARIO.exe
+C:\Users\valen\source\repos\RECETARIO\obj\Debug\RECETARIO.pdb
